@@ -1,21 +1,25 @@
-# 💫 About Me:
-🛠️ I'm currently working on<br>Deepening my skills in the Cybersecurity Area of Emphasis at the University of Guelph<br><br>🤝 I'm looking to collaborate on<br>Open-source security tools and CS projects with fellow Guelph students<br><br>💛 I'm looking for help with<br>Breaking into a great co-op term this Winter — always open to advice from upper-years<br><br>🌱 I'm currently learning<br>Systems security, network fundamentals, and everything in Guelph's CS Co-op curriculum<br><br>💬 Ask me about<br>Why I've been obsessed with computers since I was a kid, or anything CS/cybersecurity<br><br>⚡ Fun fact<br>I've wanted to work in tech since I built my first PC in middle school
+About Me
 
+I'm Avitaj Bhangu, a Computer Science student at the University of Guelph interested in cybersecurity and software development.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=avitajbhangu07-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=avitajbhangu07-spec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=avitajbhangu07-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+Studying Computer Science at the University of Guelph
+Building projects to improve my programming and problem-solving skills
+Learning more about cybersecurity, systems, and networking
+Looking to collaborate on CS and cybersecurity projects
+Technologies
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=avitajbhangu07-spec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Languages: C, C++, Python, Java, JavaScript, TypeScript, C#
 
----
-[![](https://komarev.com/ghpvc/?username=avitajbhangu07-spec&icon=0&color=0)](https://visitcount.itsvg.in)
+Web: HTML, CSS, JavaScript
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Tools: Git, GitHub, Linux, Bash, PowerShell, VS Code
+
+Databases: MySQL, MongoDB, Supabase
+
+Projects
+
+I'm currently rebuilding and adding projects to this account. I recently created this GitHub account and have been moving/rebuilding some of my previous projects.
+
+More projects will be added as I continue building my portfolio.
